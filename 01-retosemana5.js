@@ -8,6 +8,6 @@ let TG= L/G;
 
 let GA= TG*PG;
 
-console.log(`Al final del dia usted gano S/ ${GA} `)
+console.log(`Al final del dia usted gano S/ ${GA} `);
 
-alert (`La ganancia del día es de S/ ${GA.toFixed(3)}`)
+alert (`La ganancia del día es de S/ ${GA.toFixed(3)}`);
